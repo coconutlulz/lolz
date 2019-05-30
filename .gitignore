@@ -1,0 +1,5 @@
+*.pyc
+*.pyo
+/portfolio/constants.py
+db.sqlite3
+*.sqlite3
